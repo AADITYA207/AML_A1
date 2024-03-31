@@ -5,7 +5,7 @@ This repository contains assignments for the course "Advanced Machine Learning (
 ## Folder Structure
 
 - **A1**: Contains two folders, Milestone_1 and Milestone_2, each containing all the files related to the corresponding milestone.
-- **A2**: TBD (To Be Determined)
+- **A2**: Contains two folders, Milestone_1 and Milestone_2, each containing all the files related to the corresponding milestone.
 - **A3**: TBD (To Be Determined)
 
 ## Milestone Details
